@@ -1,4 +1,4 @@
-# ✅ README for `puregym-review-topic-modelling-nlp-llm-`
+# ✅ README
 
 ```md
 # 🏋️ PureGym Review Analysis – Topic Modelling & NLP
