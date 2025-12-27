@@ -1,6 +1,5 @@
 # ✅ README
 
-```md
 # 🏋️ PureGym Review Analysis – Topic Modelling & NLP
 
 ## 🔍 Project Overview
@@ -94,7 +93,7 @@ pip install -r requirements.txt
 
 # Run the notebook
 jupyter notebook
-
+```
 ---
 ## 🔍 Key Learnings
 - Quality of preprocessing heavily impacts topic quality
